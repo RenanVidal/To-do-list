@@ -1,6 +1,6 @@
 # To-do list
 
-Este projeto, foi criado uma simples lista de tarefas, seguindo as intruções abaixo
+Neste projeto, foi criado uma simples lista de tarefas, seguindo as intruções abaixo
 
 ## Instruções
 
